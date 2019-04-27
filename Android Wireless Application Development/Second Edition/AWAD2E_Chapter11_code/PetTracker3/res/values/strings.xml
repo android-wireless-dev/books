@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string
+		name="app_name">Pet Tracker 3.0 (Media)</string>
+	<string
+		name="pet_name">Pets</string>
+	<string
+		name="pet_type">Pet Species</string>
+	<string
+		name="pet_actions">Actions</string>
+</resources>

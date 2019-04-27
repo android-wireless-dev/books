@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonContacts"
+        android:onClick="listContactsLegacy"
+        android:text="List Contacts Using Legacy Contacts Content Provider"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List Contacts Using ContactsContract.Contacts Content Provider"
+        android:id="@+id/buttonContactsContract"
+        android:onClick="listContactsContract"></Button>
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="See the LogCat output for details."
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:gravity="center"></TextView>
+
+</LinearLayout>

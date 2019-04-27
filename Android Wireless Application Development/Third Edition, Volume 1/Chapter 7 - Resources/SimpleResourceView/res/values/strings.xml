@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleResourceViewActivity!</string>
+    <string name="app_name">Simple Resource View</string>
+<string name="test_string">Android says Hello!</string>
+</resources>

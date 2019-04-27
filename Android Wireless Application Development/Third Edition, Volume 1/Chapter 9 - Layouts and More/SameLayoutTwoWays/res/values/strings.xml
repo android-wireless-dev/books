@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="hello">Hello World, SameLayoutActivity!</string>
+    <string
+        name="app_name">Same Layout (Two Ways)</string>
+    <string
+        name="string1">Hi there!</string>
+    <string
+        name="string2">I\'m second. I need to wrap.</string>
+</resources>
